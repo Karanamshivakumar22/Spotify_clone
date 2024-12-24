@@ -68,7 +68,12 @@ body{
 .header{
     display: flex;
     justify-content: space-between;
+    background-color: rgb(28, 25, 25);
 }
 .header > *{
     padding: 20px;
+}
+.SpotifyPlaylist{
+    padding: 16px;
+    
 }
